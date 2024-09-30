@@ -1,0 +1,4 @@
+Link to official driver page:
+
+https://ftdichip.com/drivers/vcp-drivers/
+

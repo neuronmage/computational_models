@@ -1,0 +1,7 @@
+﻿crdm_sure_amt,crdm_sure_p,crdm_lott_left,crdm_lott_right,crdm_lott_p,crdm_amb_lev,crdm_domain,crdm_img,crdm_nonzero_side,crdm_winning_color
+5,100,0,10,25,0,gain,machine_b6_r2.png,right,red
+5,100,15,0,25,0,gain,machine_b2_r6.png,left,blue
+5,100,0,20,25,0,gain,machine_b6_r2.png,right,red
+-5,100,-5,0,25,0,loss,machine_b2_r6.png,left,red
+-5,100,0,-10,25,0,loss,machine_b6_r2.png,right,blue
+-5,100,-15,0,25,0,loss,machine_b2_r6.png,left,red

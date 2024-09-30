@@ -1,0 +1,4 @@
+﻿crdm_sure_amt,crdm_sure_p,crdm_lott_top,crdm_lott_bot,crdm_lott_p,crdm_amb_lev,crdm_domain,crdm_img,crdm_nonzero_side
+5,100,20,0,13,0,gain,risk_red_13.bmp,top
+5,100,0,50,25,0,gain,risk_blue_25.bmp,bottom
+5,100,40,0,50,74,gain,ambig_74.bmp,top

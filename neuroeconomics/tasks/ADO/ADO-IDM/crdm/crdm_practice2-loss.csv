@@ -1,0 +1,7 @@
+﻿idm_task,item,crdm_sure_amt2,crdm_sure_p2,crdm_lott_top2,crdm_lott_bot2,crdm_lott_p2,crdm_amb_lev2,crdm_domain2,crdm_img2,crdm_nonzero_side2
+crdm_practice2,1,5,100,20,0,13,0,gain,risk_red_13.bmp,top
+crdm_practice2,2,5,100,0,50,25,0,gain,risk_blue_25.bmp,bottom
+crdm_practice2,3,5,100,40,0,50,74,gain,ambig_74.bmp,top
+crdm_practice2,4,-5,100,0,-8,75,0,loss,risk_blue_75.bmp,bottom
+crdm_practice2,5,-5,100,-20,0,75,0,loss,risk_red_75.bmp,top
+crdm_practice2,6,-5,100,0,-40,75,0,loss,risk_blue_75.bmp,bottom

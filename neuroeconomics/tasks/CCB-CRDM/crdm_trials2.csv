@@ -1,0 +1,17 @@
+﻿item,crdm_sure_amt,crdm_sure_p,crdm_lott_top,crdm_lott_bot,crdm_lott_p,crdm_amb_lev,crdm_domain,crdm_img,crdm_nonzero_side
+17,5,100,0,8,13,0,gain,risk_blue_13.bmp,bottom
+18,5,100,40,0,50,74,gain,ambig_74.bmp,top
+19,5,100,20,0,50,74,gain,ambig_74.bmp,top
+20,5,100,50,0,50,24,gain,ambig_24.bmp,top
+21,5,100,0,50,50,50,gain,ambig_50.bmp,bottom
+22,5,100,50,0,38,0,gain,risk_red_38.bmp,top
+23,5,100,50,0,50,50,gain,ambig_50.bmp,top
+24,5,100,0,50,50,0,gain,risk_blue_50.bmp,bottom
+25,5,100,20,0,25,0,gain,risk_red_25.bmp,top
+26,5,100,0,20,50,74,gain,ambig_74.bmp,bottom
+27,5,100,0,50,50,74,gain,ambig_74.bmp,bottom
+28,5,100,0,50,75,0,gain,risk_blue_75.bmp,bottom
+29,5,100,0,40,50,50,gain,ambig_50.bmp,bottom
+30,5,100,0,50,13,0,gain,risk_blue_13.bmp,bottom
+31,5,100,0,20,38,0,gain,risk_blue_38.bmp,bottom
+32,5,100,8,0,13,0,gain,risk_red_13.bmp,top
